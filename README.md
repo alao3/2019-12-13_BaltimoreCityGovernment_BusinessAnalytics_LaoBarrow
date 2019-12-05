@@ -3,7 +3,6 @@
 # Problem Statement
 Illegal trash dumping is a growing problem in Baltimore City--the Department of Housing and Community Development issued almost 1,150 citations for illegal dumping in 2018, however, there isn’t much insight into why this is happening and what we can do about it. We’d like to better understand the trends that help explain illegal dumping in Baltimore City, and explore potential interventions that can help prevent illegal dumping.
 
-
 # Why is this a Challenge/Problem?
 Illegal dumping in Baltimore 
 
@@ -23,9 +22,15 @@ Annually we see an increase in the annual number citations from 2014 (2889 citat
 
 Seasonally, basis, we also see an increase in the late summer/early fall months from July to September, with the highest number of citations in August from 2014-2019.
 
+Geographically, District 9 had the highest number of illegal dumping citations (5877) across all years.   
+
 At this point, we diverted to answer an additional question - Does baltimore have more efficient reporting methods that led to increased reporting? Or is Baltimore becoming dirtier? Therefore, we analyzed the methods for how to report 311 citations, and found that API and Phone were the highest. 
 
-Geographically,
+Of all the reporting methods, which include email, mail, phone, system, and web. Across all years, API and Phone had the highest number of reportings, with Phone being consistently higher than API. Comparing this to our 
+
+To see if Baltimore is becoming dirtier, we looked  311 reporting citations that were related 
+
+
 
 ## Future Analysis
 
@@ -34,7 +39,6 @@ Geographically,
 - After redowloading the data, we got better results for the 311 citations, however we are still having trouble identifying accurate data for environmental citations
 
 # Suggestions
-
 
 
 # Additional Sources Baltimore Open Data
