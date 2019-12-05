@@ -8,7 +8,7 @@ Illegal trash dumping is a growing problem in Baltimore City--the Department of 
 Illegal dumping in Baltimore 
 
 # Solution
-Process
+## Process
 
 In our midterm project, we analyzed whether or not Baltimore had a trash problem. Through our findings, we wanted to identify geographic hot spots that had the highest trash accumulation. 
 
@@ -16,14 +16,14 @@ Now, this project allows us to dive deeper into a specific environmental trash p
 
 Second, identifying geographic hotspots of high illegal citations and reporting will give insight into specific areas to target on a city council district level and neighborhood level. By identifying 'hot spots', we hope to advise the city to focus on specific areas first to mitigate the ramifications of illegal dumping.
 
+## Findings
 
 
-Findings
+## Future Analysis
 
-Future Analysis
-
-Problems we faced/forsee
-- 
+## Problems we faced/forsee
+- After the first meeting with city government, we realized the data we downloaded was inaccurate, leading us to obtain very skewed and inaccurate results.
+- After redowloading the data, we got better results for the 311 citations, however we are still having trouble identifying accurate data for environmental citations
 
 # Suggestions
 
