@@ -30,13 +30,17 @@ Reporting methods include email, mail, phone, system, and web. Across all years,
 
 To see if Baltimore is becoming dirtier beyond illegal dumping, we looked at 311 reporting citations that were related such as bulk scheduled, clean up, cleaning, dirty alley, dirty street. By removing the irrelevant subsections, we wanted to compare All Dumping to All Bulk Pickup, All Cleaning, and All Dirty Alley and Streets citations. Overall, Cleaning, Dumping, and Bulk Pickup remained stagnant over the 5 years, however there was a dramatic decrease for Dirty Alley and Streets. 
 
+### Environmental Citations Findings 
+
+PART 2: After analyzing these two datasets, we wanted to better understand the relationship between the two.
+
 
 
 ## Future Analysis
 
 ## Problems we faced/forsee
 - After the first meeting with city government, we realized the data we downloaded was inaccurate, leading us to obtain very skewed and inaccurate results.
-- After redowloading the data, we got better results for the 311 citations, however we are still having trouble identifying accurate data for environmental citations
+- After redowloading the data, we got better results for the 311 citations, however we are still having trouble identifying accurate data for environmental citations. As a result, we will use data related to 'illegal dumping' to understand the general trash/dumping problem.
 
 # Suggestions
 
