@@ -22,7 +22,7 @@ Annually we see an increase in the annual number citations from 2014 (2889 citat
 
 Seasonally, basis, we also see an increase in the late summer/early fall months from July to September, with the highest number of citations in August from 2014-2019.
 
-Geographically, District 9 had the highest number of illegal dumping citations (5877) across all years.   
+Geographically, District 9 had the highest number of illegal dumping citations (5877) across all years. In addition, we compiled an analysis on a neighborhood level with the greatest number of reporting.
 
 At this point, we diverted to answer an additional question - Does baltimore have more efficient reporting methods that led to increased reporting? Or is Baltimore becoming dirtier? Therefore, we analyzed the methods for how to report 311 citations, and found that API and Phone were the highest. 
 
@@ -40,15 +40,21 @@ We then looked at the citations by council district. In every council district t
 
 Then we did the same with the different neighborhoods and compiled a list of which neighborhoods have the greatest total citations in the two categories
 
-PART 2: After analyzing these two datasets, we wanted to better understand the relationship between the two.
+PART 2: After analyzing these two datasets, we wanted to better understand the relationship between the two. 
+We analyzed both citation + 311 data on an annual level, and found that there were much higher reporting over the years compared to citations. Both were exponentially increasing over the years as well.
 
-
+Second, we looked at a neighborhood level and matched the datasets to find the top neighborhoods that had both high citations and high reporting. Out of a top 30 out of around 250 neighborhoods, we found 16 neighborhoods that had both high reporting and citation numbers, and we mapped them out using the 311 dashboard given to us by City gov. After mapping them through their mapox dashboard on power BI, we found that these neighborhoods formed several clusters primarily in the NE region and SW region of Baltimore.
 
 ## Future Analysis
 
+Overall, reporting is going up, citations are going up, meaning that the problems are being dealt with. We want to continue encouraging the same rates of repoerting so the government knows where to take action. Phone is the most popular method of reporting, so finding ways to promote the phone number on billboards/campaigns will remind people to continue reporting.
+
+Building off of the neighborhood mapping, we want to propose a targeted intervention strategy in these specific clusters/'hot spots' using a surveillance camera system. We plan to look into neighborhoods where reports are not being closed on time and thus the government needs more interventions in these regions. Next week, we will build on a possible implementation strategy including pricing/budget, which clusters to target first, and a possible timeline.
+
+
 ## Problems we faced/forsee
 - After the first meeting with city government, we realized the data we downloaded was inaccurate, leading us to obtain very skewed and inaccurate results.
-- After redowloading the data, we got better results for the 311 citations, however we are still having trouble identifying accurate data for environmental citations. As a result, we will use data related to 'illegal dumping' to understand the general trash/dumping problem.
+- As mentioned before, after redowloading the data, we got better results for the 311 citations, however we are still having trouble identifying accurate data for environmental citations. As a result, we will use data related to 'illegal dumping' (we used 'bulk trash' and 'trash accumulation')to understand the general trash/dumping problem.
 
 # Suggestions
 
