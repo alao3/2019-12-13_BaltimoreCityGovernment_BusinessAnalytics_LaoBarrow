@@ -3,6 +3,8 @@
 # Problem Statement
 Illegal trash dumping is a growing problem in Baltimore City--the Department of Housing and Community Development issued almost 1,150 citations for illegal dumping in 2018, however, there isn’t much insight into why this is happening and what we can do about it. We’d like to better understand the trends that help explain illegal dumping in Baltimore City, and explore potential interventions that can help prevent illegal dumping.
 
+This has not changed since the original presentation. 
+
 # Why is this a Challenge/Problem?
 Illegal dumping in Baltimore 
 
@@ -11,24 +13,22 @@ Illegal dumping in Baltimore
 
 In our midterm project, we analyzed whether or not Baltimore had a trash problem. Through our findings, we wanted to identify geographic hot spots that had the highest trash accumulation. 
 
-Now, this project allows us to dive deeper into a specific environmental trash problem: illegal dumping. Our approach is two fold: first, we wanted to find trends in 311 Reporting and the number of Environment Citations, as well as possible relationships between the two datasets. In addition, we wanted to analyze seasonal trends to see if Balitmore City needed to take more action or implement different strategies during specific points of the year.
+Now, this project allows us to dive deeper into a specific environmental trash problem: illegal dumping. Our approach is two fold: first, we wanted to find trends in 311 Reporting and the number of Environment Citations, as well as possible relationships between the two datasets. 
 
 Second, identifying geographic hotspots of high illegal citations and reporting will give insight into specific areas to target on a city council district level and neighborhood level. By identifying 'hot spots', we hope to advise the city to focus on specific areas first to mitigate the ramifications of illegal dumping.
 
 ## Findings
-PART 1: We analyzed the 311 and environmental citations annually, seasonally, and geographically. 
+PART 1: We analyzed the 311 and environmental citations annually and geographically. 
 ### 311 Findings
 Annually we see an increase in the annual number citations from 2014 (2889 citations) to 2019 (10,269 citations).
-
-Seasonally, basis, we also see an increase in the late summer/early fall months from July to September, with the highest number of citations in August from 2014-2019.
 
 Geographically, District 9 had the highest number of illegal dumping citations (5877) across all years. In addition, we compiled an analysis on a neighborhood level with the greatest number of reporting.
 
 At this point, we diverted to answer an additional question - Does baltimore have more efficient reporting methods that led to increased reporting? Or is Baltimore becoming dirtier? Therefore, we analyzed the methods for how to report 311 citations, and found that API and Phone were the highest. 
 
-Reporting methods include email, mail, phone, system, and web. Across all years, API and Phone had the highest number of reportings, with Phone being consistently higher than API. We wanted to see if the type of reporting had any effect on an increase or decrease in citationts. By identifying the District API:Phone ratio compared to the number of citations, we created a scatter plot - the findings were that although there is higher phone use, it doesn't necessarily lead to more or less citations, lower API:PHONE ratios resulted in both high and low citations in multiple districts. Therefore, the method of reporting doesn't affect reporting quantities, but overall there is still an increase in reporting over the years.
+Reporting methods include email, mail, phone, system, and web. Across all years, API and Phone had the highest number of reportings, with Phone being consistently higher than API. We wanted to see if the type of reporting had any effect on an increase or decrease in reports. By identifying the District API:Phone ratio compared to the number of reports, we created a scatter plot - the findings were that although there is higher phone use, it doesn't necessarily lead to more or less reports, lower API:PHONE ratios resulted in both high and low reports in multiple districts. Therefore, the method of reporting doesn't affect reporting quantities, but overall there is still an increase in reporting over the years.
 
-To see if Baltimore is becoming dirtier beyond illegal dumping, we looked at 311 reporting citations that were related such as bulk scheduled, clean up, cleaning, dirty alley, dirty street. By removing the irrelevant subsections, we wanted to compare All Dumping to All Bulk Pickup, All Cleaning, and All Dirty Alley and Streets citations. Overall, Cleaning, Dumping, and Bulk Pickup remained stagnant over the 5 years, however there was a dramatic decrease for Dirty Alley and Streets. 
+To see if Baltimore is becoming dirtier beyond illegal dumping, we looked at 311 reporting citations that were related such as bulk scheduled, clean up, cleaning, dirty alley, dirty street. By removing the irrelevant subsections, we wanted to compare All Dumping to All Bulk Pickup, All Cleaning, and All Dirty Alley and Streets citations. Overall, reporting has not changed much over the years for Bulk Pickup and Cleaning; there is a huge increase in reporting for illegal dumping (as we know), and reports for Dirty Alley and Streets went down substantially. Baltimore isn't necessarily becoming dirtier, however we know that illegal dumping is reported much more frequently than other similar categories.
 
 ### Environmental Citations Findings 
 
@@ -36,9 +36,9 @@ Initially we intended to only analyze the enviromental citations specifically fo
 
 From 2014 to now, there has been an exponential increase in the number of both citations.
 
-We then looked at the citations by council district. In every council district there were more citations given for trash accumulation than bulk trash. District 13 had the highest number of both trash accumulation and bulk trash citations, whereas district 11 had the lowest number of both citations.
+We then looked at the citations by council district. In every council district there were more citations given for trash accumulation than bulk trash. District 13 had the highest number of both trash accumulation and bulk trash citations, whereas District 11 had the lowest number of both citations.
 
-Then we did the same with the different neighborhoods and compiled a list of which neighborhoods have the greatest total citations in the two categories
+Then we did the same with the different neighborhoods and compiled a list of which neighborhoods have the greatest total citations in the two categories.
 
 PART 2: After analyzing these two datasets, we wanted to better understand the relationship between the two. 
 We analyzed both citation + 311 data on an annual level, and found that there were much higher reporting over the years compared to citations. Both were exponentially increasing over the years as well.
@@ -54,9 +54,8 @@ Building off of the neighborhood mapping, we want to propose a targeted interven
 
 ## Problems we faced/forsee
 - After the first meeting with city government, we realized the data we downloaded was inaccurate, leading us to obtain very skewed and inaccurate results.
-- As mentioned before, after redowloading the data, we got better results for the 311 citations, however we are still having trouble identifying accurate data for environmental citations. As a result, we will use data related to 'illegal dumping' (we used 'bulk trash' and 'trash accumulation')to understand the general trash/dumping problem.
-
-# Suggestions
+- As mentioned before, after redowloading the data, we got better results for the 311 citations, however we are still having trouble identifying accurate data for environmental citations. As a result, we will use data related to 'illegal dumping' (we used 'bulk trash' and 'trash accumulation')to understand the general trash/dumping problem. We know this is an expensive intervention so we aren't sure how feasible this would be (however it is cheaper than assining personnel to oversee illegal dumping).
+- We are not sure if city government will see the immediate value in building awareness around reporting/using phones to report, but we believe this is a great step because the government will benefit from people reporting, as they act as the eyes and ears of the city. It would be better to have them report rather than not, which could lead to increased trash problems, rat problems, etc. 
 
 
 # Additional Sources Baltimore Open Data
