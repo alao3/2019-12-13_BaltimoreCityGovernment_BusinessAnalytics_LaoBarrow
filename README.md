@@ -26,9 +26,9 @@ Geographically, District 9 had the highest number of illegal dumping citations (
 
 At this point, we diverted to answer an additional question - Does baltimore have more efficient reporting methods that led to increased reporting? Or is Baltimore becoming dirtier? Therefore, we analyzed the methods for how to report 311 citations, and found that API and Phone were the highest. 
 
-Of all the reporting methods, which include email, mail, phone, system, and web. Across all years, API and Phone had the highest number of reportings, with Phone being consistently higher than API. Comparing this to our 
+Reporting methods include email, mail, phone, system, and web. Across all years, API and Phone had the highest number of reportings, with Phone being consistently higher than API. We wanted to see if the type of reporting had any effect on an increase or decrease in citationts. By identifying the District API:Phone ratio compared to the number of citations, we created a scatter plot - the findings were that although there is higher phone use, it doesn't necessarily lead to more or less citations, lower API:PHONE ratios resulted in both high and low citations in multiple districts. Therefore, the method of reporting doesn't affect reporting quantities, but overall there is still an increase in reporting over the years.
 
-To see if Baltimore is becoming dirtier, we looked  311 reporting citations that were related 
+To see if Baltimore is becoming dirtier beyond illegal dumping, we looked at 311 reporting citations that were related such as bulk scheduled, clean up, cleaning, dirty alley, dirty street. By removing the irrelevant subsections, we wanted to compare All Dumping to All Bulk Pickup, All Cleaning, and All Dirty Alley and Streets citations. Overall, Cleaning, Dumping, and Bulk Pickup remained stagnant over the 5 years, however there was a dramatic decrease for Dirty Alley and Streets. 
 
 
 
