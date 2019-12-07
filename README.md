@@ -5,10 +5,6 @@ Illegal trash dumping is a growing problem in Baltimore City--the Department of 
 
 This has not changed since the original presentation. 
 
-# Why is this a Challenge/Problem?
-Illegal dumping in Baltimore 
-
-# Solution
 ## Process
 
 In our midterm project, we analyzed whether or not Baltimore had a trash problem. Through our findings, we wanted to identify geographic hot spots that had the highest trash accumulation. 
@@ -50,6 +46,8 @@ Second, we looked at a neighborhood level and matched the datasets to find the t
 Overall, reporting is going up, citations are going up, meaning that the problems are being dealt with. We want to continue encouraging the same rates of repoerting so the government knows where to take action. Phone is the most popular method of reporting, so finding ways to promote the phone number on billboards/campaigns will remind people to continue reporting.
 
 Building off of the neighborhood mapping, we want to propose a targeted intervention strategy in these specific clusters/'hot spots' using a surveillance camera system. We plan to look into neighborhoods where reports are not being closed on time and thus the government needs more interventions in these regions. Next week, we will build on a possible implementation strategy including pricing/budget, which clusters to target first, and a possible timeline.
+
+We need to build visuals, write out or excel steps, create the presentation, write out the analysis, and outside research to understand pricing for cameras or see what other cities have done in the past to combat illegal dumping. 
 
 
 ## Problems we faced/forsee
