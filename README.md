@@ -28,7 +28,7 @@ To see if Baltimore is becoming dirtier beyond illegal dumping, we looked at 311
 
 ### Environmental Citations Findings 
 
-Initially we intended to only analyze the enviromental citations specifically for illegal dumping but we realised that the data collected for this violation was actually corrupted. As a compromise, we instead focused on citations given for violations similar to illegal dumping, trash accumulation and bulk trash in particular. 
+Initially we intended to only analyze the environmental citations specifically for illegal dumping but we realised that the data collected for this violation was actually corrupted. As a compromise, we instead focused on citations given for violations similar to illegal dumping, trash accumulation and bulk trash in particular. 
 
 From 2014 to now, there has been an exponential increase in the number of both citations.
 
@@ -43,7 +43,7 @@ Second, we looked at a neighborhood level and matched the datasets to find the t
 
 ## Future Analysis
 
-Overall, reporting is going up, citations are going up, meaning that the problems are being dealt with. We want to continue encouraging the same rates of repoerting so the government knows where to take action. Phone is the most popular method of reporting, so finding ways to promote the phone number on billboards/campaigns will remind people to continue reporting.
+Overall, reporting is going up, citations are going up, meaning that the problems are being dealt with. We want to continue encouraging the same rates of reporting so the government knows where to take action. Phone is the most popular method of reporting, so finding ways to promote the phone number on billboards/campaigns will remind people to continue reporting.
 
 Building off of the neighborhood mapping, we want to propose a targeted intervention strategy in these specific clusters/'hot spots' using a surveillance camera system. We plan to look into neighborhoods where reports are not being closed on time and thus the government needs more interventions in these regions. Next week, we will build on a possible implementation strategy including pricing/budget, which clusters to target first, and a possible timeline.
 
@@ -52,7 +52,7 @@ We need to build visuals, write out or excel steps, create the presentation, wri
 
 ## Problems we faced/forsee
 - After the first meeting with city government, we realized the data we downloaded was inaccurate, leading us to obtain very skewed and inaccurate results.
-- As mentioned before, after redowloading the data, we got better results for the 311 citations, however we are still having trouble identifying accurate data for environmental citations. As a result, we will use data related to 'illegal dumping' (we used 'bulk trash' and 'trash accumulation')to understand the general trash/dumping problem. We know this is an expensive intervention so we aren't sure how feasible this would be (however it is cheaper than assining personnel to oversee illegal dumping).
+- As mentioned before, after redownloading the data, we got better results for the 311 citations, however we are still having trouble identifying accurate data for environmental citations. As a result, we will use data related to 'illegal dumping' (we used 'bulk trash' and 'trash accumulation')to understand the general trash/dumping problem. We know this is an expensive intervention so we aren't sure how feasible this would be (however it is cheaper than assigning personnel to oversee illegal dumping).
 - We are not sure if city government will see the immediate value in building awareness around reporting/using phones to report, but we believe this is a great step because the government will benefit from people reporting, as they act as the eyes and ears of the city. It would be better to have them report rather than not, which could lead to increased trash problems, rat problems, etc. 
 
 
