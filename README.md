@@ -6,7 +6,7 @@ Overall, illegal dumping 311 Reporting and related Environmental Citations are i
 Data Findings and Interpretations
 Our approach is two fold: first, we wanted to find trends from the 311 Reporting and the Environmental Citations data, and the relationships between the two datasets. Second, we identified high illegal citations and reporting ‘hotspots’ will give insight into specific areas to target on a city council district level and neighborhood level. By identifying 'hot spots', we will suggest specific areas to implement targeted interventions.
 
-311 Reporting: The number of reports increase annually from 2014 (2,889 citations) to 2019 (10,269 citations). Geographically, District 9 had the highest number of illegal dumping citations (5,877) across all years. To dive deeper, we wanted to better understand if Baltimore has more efficient reporting methods that led to increased reporting, or if Baltimore was becoming dirtier? Of all reporting styles (AP, email, mail, phone, system, and web), API and Phone had the highest number of reportings, with Phone being consistently higher than API
+311 Reporting: The number of reports increase annually from 2014 (2,889 citations) to 2019 (10,269 citations). Geographically, District 9 had the highest number of illegal dumping citations (5,877) across all years. To dive deeper, we wanted to better understand if Baltimore has more efficient reporting methods that led to increased reporting, or if Baltimore was becoming dirtier? Of all reporting styles (API, email, mail, phone, system, and web), API and Phone had the highest number of reportings, with Phone being consistently higher than API
 
 
 
