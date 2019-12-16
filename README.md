@@ -21,7 +21,7 @@ The data collected for illegal dumping citations was inaccurate and corrupted. A
 
 Through the analysis, five clusters were identified: Abell (1), Canton (2), Better Waverly (3)  Belair Edison (4), and Broadway East (5) . By utilizing the 311 dashboard, we mapped out the clusters with the top number of reporting and citations, which were Clusters 4  and Cluster 5. Cluster 4 was entirely Belair Edison, Cluster 5 was made up of 13 neighborhoods (outside red circle, including Baltimore Highlands, Broadway East, Brooklyn, Carrollton Ridge, Central Park Heights, Coldstream Homestead Montebello, Ellwood Park/Monument, McElderry Park, Patterson Park, Washington Village/Pigtown). Overall, there is a high concentration of high illegal dumping/trash occurences in the NW region of Baltimore.
 
-![Top Illegal Dumping Sites Based on Cluster Analysis](https://i.imgur.com/t6MsuRx.png)
+![Top Illegal Dumping Sites Based on Cluster Analysis](https://i.imgur.com/4XpFNsw.png)
 
 By comparing the trash Drop Off center locations (marked in red below) to the hotspots we found that all of the hotspot neighborhoods we had identified are within 3 miles of the city’s 8 legal dumping sites, the average distance between the sites and these neighborhoods being 1.7 miles. Central Park Heights (NW region) has 2 drop off centers within the neighborhood itself. This highly suggests that there may be trash overflow around these drop off centers, leading to high numbers of 311 reports and environmental citations. 
 
