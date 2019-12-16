@@ -1,7 +1,7 @@
 # Illegal Dumping in Baltimore City
 
 # Abstract
-Overall, illegal dumping 311 Reporting and related Environmental Citations are increasing. For 311 Reporting, API and Phone were the most common reporting styles, however the reporting style does not affect the total number of citations per district. Through a cluster analysis that identified specific neighborhood ‘hotspots’ with the highest reports and citations in Baltimore, the suggested targeted interventions include improving communication and transparency with reporters, modifying the current surveillance system, and implementing a cash reward program. Additional research includes comparing trash drop off centers to the hotspots, analyzing the effects of population change, and analyzing housing market prices.
+Overall, illegal dumping 311 Reporting and related Environmental Citations are increasing. For 311 Reporting, API and Phone were the most common reporting styles, however the reporting style does not affect the total number of citations per district. Through a cluster analysis that identified specific neighborhood ‘hotspots’ with the highest reports and citations in Baltimore, the suggested targeted interventions include improving communication and transparency with reporters, modifying the current surveillance system, and implementing a cash reward program. Additional research includes comparing trash drop off centers to the hotspots, analyzing the effects of population change, and comparing the hot spots results to demolition/construction data.
 
 # Data Visualizations
 Our approach is two fold: first, we wanted to find trends from the 311 Reporting and the Environmental Citations datasets, and identify the relationships between the two datasets. Second, we identified ‘hotspots’ with high illegal citations and reports, which give insight into specific areas to target on a city council district level and neighborhood level. 
@@ -14,7 +14,6 @@ To dive deeper, we wanted to better understand if Baltimore has more efficient r
 ![Totals of Different Reporting Styles (2014 - 2019)](https://i.imgur.com/EyUy5K0.png)
 
 ![API:Phone Ratio Comparison to Total Number of 311 Reports](https://i.imgur.com/4sWj3DE.png)
-
 
 The data collected for illegal dumping citations was inaccurate and corrupted. As a compromise, we focused on citations similar to illegal dumping, including Trash Accumulation and Bulk Trash citations. From 2004-2019, there is an exponential increase for both citations, again confirming the magnitude of the trash problem. 
 
